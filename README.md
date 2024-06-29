@@ -7,20 +7,17 @@ Firstly, the code implemented was tested on a benchmark problem and then it was 
 
 The Jupyter notebook is organized into three main sections:
 
-Section 1: Galerkin-POD approach
-Section 2: PINN method
-Section 3: POD-NN approach (Proper Orthogonal Decomposition integrated with NNs)
+- Section 1: Galerkin-POD approach
+- Section 2: PINN method
+- Section 3: POD-NN approach (Proper Orthogonal Decomposition integrated with NNs)
 
 ### Section Details
 
-Method Application
-    This section includes the code required to implement the related method.
+- Method Application: This section includes the code required to implement the related method.
 
-Benchmark Testing
-    In this section, the methods are first tested on the benchmark problem for which we have known solution.
+- Benchmark Testing: In this section, the methods are first tested on the benchmark problem for which we have known solution.
 
-Project Task Implementation
-    After benchmarking, the methods are applied to the specific project task.
+- Project Task Implementation: After benchmarking, the methods are applied to the specific project task.
 
 ### Analysis
 
@@ -33,10 +30,10 @@ For each method, we have conducted:
 
 ### Usage
 
-Loading Models
+- Loading Models:
     The repository includes pre-trained PINNs and FFNNs models that can be easily loaded for inference.
 
-Running the Notebook
+- Running the Notebook:
     Follow the steps in each section of the notebook to reproduce the results and apply the methods to your own tasks.
 
 ## Conclusion
