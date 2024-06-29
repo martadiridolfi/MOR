@@ -23,10 +23,8 @@ The Jupyter notebook is organized into three main sections:
 
 For each method, we have conducted:
 
-- Error Analysis
-    Detailed examination of the $H^1$, $L^2$ errors associated with the method.
-- Speed-Up Analysis
-    Comparative analysis of the computational speed relative to the classically used Galerkin POD method.
+- Error Analysis: Detailed examination of the $H^1$, $L^2$ errors associated with the method.
+- Speed-Up Analysis: Comparative analysis of the computational speed relative to the classically used Galerkin POD method.
 
 ### Usage
 
