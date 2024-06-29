@@ -3,6 +3,9 @@
 In the present study, the solution of a nonlinear elliptic problem is computed with the purpose of highlighting and analyzing the main differences between three methods of Model Order Reduction theory: POD, PINN and POD-NN.
 Firstly, the code implemented was tested on a benchmark problem and then it was adjusted in order to solve the project task. The numerical results are compared with the theoretical ones. 
 
+![Task_project_PODNN](https://github.com/martadiridolfi/MOR/assets/112576039/13ac3b2e-2899-43c6-8748-7a205141faa7)
+
+
 ## How to use this repository
 
 The Jupyter notebook is organized into three main sections:
