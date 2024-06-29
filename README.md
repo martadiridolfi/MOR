@@ -27,12 +27,14 @@ For each method, we have conducted:
 - Speed-Up Analysis: Comparative analysis of the computational speed relative to the classically used Galerkin POD method.
 
 ### Usage
-
+- Report: The pdf file containes the report with a detailed theoretical explanation of the three model order reduction methods, numerical results obtained and some related observations.
 - Loading Models:
-    The repository includes pre-trained PINNs and FFNNs models that can be easily loaded for inference.
+    The repository includes pre-trained PINNs and FFNNs models that can be easily loaded for inference. In particular the file ending containing '_exact' in the model name are trained on benchmark problem data, while the others are related to the project task.
 
 - Running the Notebook:
     Follow the steps in each section of the notebook to reproduce the results and apply the methods to your own tasks.
+
+- Results: Main results have been saved in the .csv files.
 
 ## Conclusion
 The three techniques evaluated in this report—Proper Orthogonal Decomposition (POD), Physics-
